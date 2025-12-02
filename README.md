@@ -7,9 +7,9 @@ This code aims to provide a framework for validating and making predictive model
 <br />
 
 Pipeline process:
-1. Clean and classify diving behaviours of Adélie penguins using an Expectation Maximisation model.
-2. Validate the classifications of the Expectation Maximisation model following frame-based annotation in VANTAGE.
-3. Build generalised linear mixed models (GLMMs) from the validation outputs to build probabilistic prediction frameworks.
+1. **Clean and classify** accelerometry data using an unsupervised ML model (we use EM).
+2. **Validate the classifications** of the unsupervised ML model following frame-based annotation in VANTAGE.
+3. **Build generalised linear mixed models** (GLMMs) from the validation outputs to build probabilistic prediction frameworks.
 
 <br /> 
 
