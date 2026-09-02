@@ -1,5 +1,9 @@
 # POST-HOC VALIDATION AND PREDICTION WORKFLOW OF HUNTING BEHAVIOUR DERIVED FROM UNSUPERVISED CLASSIFICATION: A CASE STUDY OF ADÉLIE PENGUINS
 
+**Note:** this workflow assumes that accelerometry data is already classified (we used Expectation Maximisation)
+<br /><br />
+Further information on the EM model used in our case study can be found in the online repository from Chimienti et al. 2022 (https://github.com/MariannaChimi/MuFFIN_MSCA.git).
+
 ## WORKFLOW CODE SCRIPTS
 
 ### SCRIPT 1: Saving PCE annotations.R
