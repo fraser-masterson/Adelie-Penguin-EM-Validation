@@ -1,11 +1,11 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 POST-HOC VALIDATION AND PREDICTION WORKFLOW OF HUNTING BEHAVIOUR DERIVED FROM UNSUPERVISED CLASSIFICATION: A CASE STUDY OF ADELIE PENGUINS |
-																	   |
-WORKFLOW CODE SCRIPTS															   |
-																	   |
-AUTHOR: FRASER MASTERSON														   |
-DATE: 02/09/2026														   	   |
+																	  																	   |
+WORKFLOW CODE SCRIPTS																													   |
+																																		   |
+AUTHOR: FRASER MASTERSON																												   |
+DATE: 02/09/2026																													   	   |
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
