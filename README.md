@@ -1,12 +1,7 @@
-
---------------------------------------------------------------------------------------------------------------------------------------------
-POST-HOC VALIDATION AND PREDICTION WORKFLOW OF HUNTING BEHAVIOUR DERIVED FROM UNSUPERVISED CLASSIFICATION: A CASE STUDY OF ADELIE PENGUINS |
-																	  																	   |
-WORKFLOW CODE SCRIPTS																													   |
-																																		   |
-AUTHOR: FRASER MASTERSON																												   |
-DATE: 02/09/2026																													   	   |
---------------------------------------------------------------------------------------------------------------------------------------------
+# POST-HOC VALIDATION AND PREDICTION WORKFLOW OF HUNTING BEHAVIOUR DERIVED FROM UNSUPERVISED CLASSIFICATION: A CASE STUDY OF ADELIE PENGUINS
+WORKFLOW CODE SCRIPTS
+AUTHOR: FRASER MASTERSON
+DATE: 02/09/2026
 
 
 
@@ -15,7 +10,7 @@ SCRIPT 1: Saving PCE annotations.R
 - A simple tool for saving manual annotations from the output files of VANTAGE
 - Particularly useful when breaking up annotation sessions across different videos or time periods
 
-[EM-Classified Accelerometry Data] -> VANTAGE -> [EM-Classified Accelerometry OUT File] -> Script 1 (R) -> [PCE Annotation File + Reset OUT File]
+(EM-Classified Accelerometry Data} -> VANTAGE -> [EM-Classified Accelerometry OUT File] -> Script 1 (R) -> [PCE Annotation File + Reset OUT File]
 
 
 
